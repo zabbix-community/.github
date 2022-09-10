@@ -3,7 +3,7 @@
 This organization was created to host open source projects related to Zabbix.
 
  <p align="center">
-    <img src="images/online-community_512.png" alt="logo of organization">
+    <img src="./images/online-community_512.png" alt="logo of organization">
  </p>
 
 Image credits:
